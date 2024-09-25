@@ -1,3 +1,2 @@
 **TITANIC-SURVIVAL-PREDICTION**
 
-https://github.com/Rengadurai08/TITANIC-SURVIVAL-PREDICTION/issues/1#issue-2547305941
